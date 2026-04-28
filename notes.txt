@@ -1,0 +1,2 @@
+DevOps combines development and operations.
+It focuses on automation and collaboration.
