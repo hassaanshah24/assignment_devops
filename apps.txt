@@ -1,0 +1,6 @@
+VS Code
+Git
+Docker
+Node.js
+Kubernetes
+Jenkins
